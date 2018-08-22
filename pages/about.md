@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
+feature-img: "![whale1](/Users/junson1/juniverse1103.github.io/assets/images/whale1.jpg)"
 tags: [About, Archive, Jun, Son]
 ---
 
