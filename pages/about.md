@@ -2,11 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "![whale1](/Users/junson1/juniverse1103.github.io/assets/images/whale1.jpg)"
+feature-img: "![whale1](/Users/junson1/juniverse1103.github.io/assets/img/whale1.jpg)"
 tags: [About, Archive, Jun, Son]
 ---
 
-![](/Users/junson1/juniverse1103.github.io/assets/images/Naverprof.JPG)
+![](/Users/junson1/juniverse1103.github.io/assets/img/Naverprof.JPG)
 
 
 
@@ -71,5 +71,5 @@ tags: [About, Archive, Jun, Son]
 
   It recognizes those individuals who are likely to become Korea's future leaders and have performed exemplary talents or outstanding meritorious service. 50 high school students, 40 college students, and 10 adults are selected based on their intelligence, passion, creativity, and community spirit.  
 
-  * [Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea): Wikipedia ink
+  * [Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea): Wikipedia link
 
