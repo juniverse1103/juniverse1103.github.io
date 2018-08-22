@@ -67,3 +67,5 @@ tags: [About, Archive]
 
   It recognizes those individuals who are likely to become Korea's future leaders and have performed exemplary talents or outstanding meritorious service. 50 high school students, 40 college students, and 10 adults are selected based on their intelligence, passion, creativity, and community spirit.
 
+  [Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea): Wikipedia ink
+
