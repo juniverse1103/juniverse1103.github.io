@@ -9,7 +9,7 @@ description: "Jun's Develop Blog" # used by search engines
 theme_settings:
   # Meta
   title: Juniverse
-  avatar: assets/img/triangle.svg
+  avatar: /Users/junson1/juniverse1103.github.io/assets/img/juniv_prof.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
