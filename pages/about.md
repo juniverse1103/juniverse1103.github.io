@@ -6,7 +6,9 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive, Jun, Son]
 ---
 
-![](/Users/junson1/Dropbox/사진/Naverprof.JPG)
+![](/Users/junson1/juniverse1103.github.io/assets/images/Naverprof.JPG)
+
+
 
 ## Jun Son(1998.11.03 - )
 
