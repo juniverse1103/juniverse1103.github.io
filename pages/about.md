@@ -67,7 +67,7 @@ tags: [About, Archive, Jun, Son]
 
 * **대한민국 인재상, Talent Award of Korea 2015**(Ministry of Education)
 
-  It recognizes those individuals who are likely to become Korea's future leaders and have performed exemplary talents or outstanding meritorious service. 50 high school students, 40 college students, and 10 adults are selected based on their intelligence, passion, creativity, and community spirit.
+  It recognizes those individuals who are likely to become Korea's future leaders and have performed exemplary talents or outstanding meritorious service. 50 high school students, 40 college students, and 10 adults are selected based on their intelligence, passion, creativity, and community spirit.  
 
   [Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea): Wikipedia ink
 
