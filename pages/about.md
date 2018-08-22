@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Archive]
+tags: [About, Archive, Jun, Son]
 ---
+
+![](/Users/junson1/Dropbox/사진/Naverprof.JPG)
 
 ## Jun Son(1998.11.03 - )
 
