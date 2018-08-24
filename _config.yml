@@ -2,7 +2,7 @@
 baseurl: 
 url: "https://juniverse1103.github.io"
 title: Juniverse
-description: "Jun's Develop Blog" # used by search engines
+description: "Welcome to Jun's Universe" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -10,7 +10,7 @@ theme_settings:
   # Meta
   title: Juniverse
   avatar: /Users/junson1/juniverse1103.github.io/assets/img/juniv_prof.png
-  favicon: assets/favicon.ico
+  favicon: assets/hand.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
