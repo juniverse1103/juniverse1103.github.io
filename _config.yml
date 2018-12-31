@@ -9,7 +9,7 @@ description: "Welcome to Jun's Universe" # used by search engines
 theme_settings:
   # Meta
   title: Juniverse
-  avatar: assets/img/juniv_prof.png
+  avatar: assets/img/handavatar.png
   favicon: assets/hand.ico
   gravatar: # Email MD5 hash
 
