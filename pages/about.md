@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
-color: black
 permalink: /about/
-feature-img: "assets/img/pexels/triangular.jpeg"
+feature-img: "assets/img/pexels/aestheticcity.jpg"
 tags: [About, Archive, Jun, Son]
 ---
 
@@ -13,28 +12,38 @@ tags: [About, Archive, Jun, Son]
 
 ### Interests
 
-* **Augmented Reality**
-  * Swift ARKit
-  * Swift CoreML
-* **Blockchain Technology**
-  * DApp development on Ethereum Protocol
-  * Solidity
-
+* **Software Development**
+  * **iOS Application Developmant**
+    * Swift
+    * ARKit
+  * **Machine Learning**
+    * TensorFlow
+    * Keras
+  * **Blockchain Technology**
+    * DApp development 
+    * LINE LINK
+    * Ethereum 
 * **Human Computer Interaction**
   * Arduino
-  * Tangible User Interface
+  * Tangible User Interfaces
+* **Product Design**
+  * Rhino
+  * Fusion 360
+  * Keyshot
+* **Culture**
+  * Cyberpunk
+  * Video Games
 
 ***
 
 ### Career
 
-* **NAVER Webtoon Corporation**
-
-  Swift ARKit development Internship (2018.08 - )
-
-* **NAVER Corporation**
-
-  Swift iOS App development Internship (2018.07 - 2018.08)
+* **ZER01NE Creator [2019.01 - ]** 
+  - Creator at ZER01NE, creative network platform supported by Hyundai Motors. (http://zer01ne.zone)
+* **NAVER Webtoon Corporation [2018.08 - 2019.01]**
+  * Swift ARKit development Internship 
+* **NAVER Corporation [2018.07 - 2018.08] **
+  * Swift iOS App development Internship 
 
 ***
 
@@ -42,33 +51,39 @@ tags: [About, Archive, Jun, Son]
 
 * **POSTECH(Pohang University of Science and Technology)**
 
-  B.S. Creative IT Engineering (2017.02 - )
+  * B.S. Creative IT Engineering (2017.02 - )
 
 * **University of California, Berkeley**
 
-  Visiting Student (2017.08 - 2017.12)
+  * Fall Visiting Student (2017.08 - 2017.12)
 
 * **Rhode Island School of Design**
 
-  Visiting Student (2017.06 - 2017.08)
+  * Summer Visiting Student (2017.06 - 2017.08)
 
 * **Pohang Jecheol High School(Pohang, South Korea)**
 
-  Graduated (2014.02 - 2017.02)
+  * Graduated, natural sciences division (2014.02 - 2017.02)
 
 ***
 
-### Experiences
+### Achievements
+
+* **LINE X KIISE Blockchain Competition**
+
+  * LINE corporation and Korea Institute of Information Scientists and Engineers
+  * Excellence Award
+  * Hashlink, a URL redirection DApp with blockchain as a hosting server for decentralized use 
 
 * **CHI2018(Montreal, Canada)**
 
-  Late Breaking Work, Poster Presenter
+  * Late Breaking Work, Poster Presenter
 
-  [SoundGlove, Multisensory Exploration of Everyday Object](https://dl.acm.org/citation.cfm?id=3188554) : ACM Digital Library Link
+  * [SoundGlove, Multisensory Exploration of Everyday Object](https://dl.acm.org/citation.cfm?id=3188554) : ACM Digital Library Link
 
 * **대한민국 인재상, Talent Award of Korea 2015**(Ministry of Education)
 
-  It recognizes those individuals who are likely to become Korea's future leaders and have performed exemplary talents or outstanding meritorious service. 50 high school students, 40 college students, and 10 adults are selected based on their intelligence, passion, creativity, and community spirit.  
+  * It recognizes those individuals who are likely to become Korea's future leaders and have performed exemplary talents or outstanding meritorious service. 50 high school students, 40 college students, and 10 adults are selected based on their intelligence, passion, creativity, and community spirit.  
 
   * [Talent Award of Korea](https://en.wikipedia.org/wiki/Talent_Award_of_Korea): Wikipedia link
 
