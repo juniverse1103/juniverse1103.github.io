@@ -3,7 +3,7 @@ layout: page
 title: About
 color: black
 permalink: /about/
-feature-img: "![whale1](assets/img/whale1.jpg)"
+feature-img: "assets/img/pexels/triangular.jpeg"
 tags: [About, Archive, Jun, Son]
 ---
 
