@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+color: black
 permalink: /about/
 feature-img: "![whale1](assets/img/whale1.jpg)"
 tags: [About, Archive, Jun, Son]
