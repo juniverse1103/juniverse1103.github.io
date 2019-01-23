@@ -42,7 +42,7 @@ tags: [About, Archive, Jun, Son]
   - Creator at ZER01NE, creative network platform supported by Hyundai Motors. (http://zer01ne.zone)
 * **NAVER Webtoon Corporation [2018.08 - 2019.01]**
   * Swift ARKit development Internship 
-* **NAVER Corporation [2018.07 - 2018.08] **
+* **NAVER Corporation [2018.07 - 2018.08]**
   * Swift iOS App development Internship 
 
 ***
